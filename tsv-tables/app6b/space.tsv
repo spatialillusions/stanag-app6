@@ -1,0 +1,5 @@
+hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
+1.X.1 	S	*	P	*	------	SPACE TRACK
+1.X.1.1 	S	*	P	*	S-----	SATELLITE
+1.X.1.2 	S	*	P	*	V-----	CREWED SPACE VEHICLE
+1.X.1.3 	S	*	P	*	T-----	SPACE STATION
