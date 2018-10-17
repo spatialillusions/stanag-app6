@@ -6,12 +6,12 @@ export default [
     input: "src/index.js",
     output: [
       {
-        file: "milstd.js",
+        file: "stanagapp6.js",
         format: "umd",
-        name: "milstd"
+        name: "stanagapp6"
       },
       {
-        file: "milstd.esm.js",
+        file: "stanagapp6.esm.js",
         format: "es"
       }
     ],

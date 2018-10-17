@@ -1,9 +1,9 @@
 {
-  "name": "milstd",
-  "version": "0.1.6",
+  "name": "stanagapp6",
+  "version": "0.1.0",
   "description": "Military symbol standards in JSON format",
-  "main": "milstd.js",
-  "module": "milstd.esm.js",
+  "main": "stanagapp6.js",
+  "module": "stanagapp6.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c"
