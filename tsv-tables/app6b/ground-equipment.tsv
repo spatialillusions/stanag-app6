@@ -106,4 +106,4 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.3.2.4.3 	S	*	G	*	EXF---	FLAME THROWER	
 1.X.3.2.4.4 	S	*	G	*	EXM---	LAND MINES	
 1.X.3.2.4.4.1 	S	*	G	*	EXMC--	LAND MINES, LETHAL	
-1.X.3.2.4.4.2 	S	*	G	*	EXML--	LESS THAN LETHAL
+1.X.3.2.4.4.2 	S	*	G	*	EXML--	LESS THAN LETHAL	
