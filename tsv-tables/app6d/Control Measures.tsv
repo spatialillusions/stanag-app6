@@ -23,7 +23,7 @@ Command and Control Points				130000	For training or hierarchical purposes only
 	Decision Point		Point	130700	
 	Distress Call		Point	130800	
 	Entry Control Point		Point	130900	
-	Fly-To-Point		Point	131000	For training or hierarchical purposes only 
+	Fly-To-Point			131000	For training or hierarchical purposes only 
 		Sonobuoy	Point	131001	
 		Weapon	Point	131002	
 		Normal	Point	131003	
@@ -185,8 +185,8 @@ Maritime Control Areas				200000	For training or hierarchical purposes
 		Ellipse/Circle	Area	200401	
 		Rectangle	Area	200402	
 	Active Manoeuvre Area		Point	200500	
-	Cued Acquisition Doctrine		Point	200600	
-	Radar Search Doctrine		Point	200700	
+	Cued Acquisition Doctrine		Point17	200600	
+	Radar Search Doctrine		Point18	200700	
 Maritime Control Points				210000	For training or hierarchical purposes
 	Plan Ship		Point	210100	
 	Aim Point		Point	210200	
@@ -290,7 +290,7 @@ Maritime Control Points				210000	For training or hierarchical purposes
 	Ditched Aircraft/Downed Aircraft		Point	218100	
 	Person in Water/Bailout		Point	218200	
 	Iceberg		Point	218300	
-	Navigational		Point	218400	
+	Navigational		Line	218400	
 	Oil Rig		Point	218500	
 	Sea Mine-Like		Point	218600	
 	Bottom Return/NonMine, Mine-Like Bottom Object (NOMBO)		Point	218700	
@@ -425,9 +425,9 @@ Protection Areas				270000	For training or hierarchical purposes
 		Fix	Line	270503	
 		Turn	Line	270504	
 	Obstacle Bypass			270600	For training or hierarchical purposes
-		Easy	Point	270601	
-		Difficult	Point	270602	
-		Impossible	Point	270603	
+		Easy	Point12	270601	
+		Difficult	Point12	270602	
+		Impossible	Point12	270603	
 	Minefield			270700	For training or hierarchical purposes
 		Completed	Point	270701	
 		Dummy		270705	
@@ -584,8 +584,8 @@ Sustainment Lines				330000	For training or hierarchical purposes
 Mission Tasks				340000	
 	Block		Area	340100	
 	Breach		Line	340200	
-	Bypass		Point	340300	
-	Canalize		Point	340400	
+	Bypass		Point12	340300	
+	Canalize		Point12	340400	
 	Clear		Line	340500	
 	Counterattack		Line	340600	
 	Counterattack by Fire		Line	340700	
