@@ -458,7 +458,7 @@ Protection Areas				270000	For training or hierarchical purposes
 	Minimum Safe Distance Zone		Area	272100	
 	Radiation Dose Rate Contour Lines		Area	272200	
 Protection Points				280000	For training or hierarchical purposes
-	Abatis		Point	280100	
+	Abatis		Line	280100	
 	Antipersonnel Mine		Point	280200	
 		Antipersonnel Mine with Directional Effects		280201	
 	Antitank Mine		Point	280300	
@@ -538,7 +538,7 @@ Sustainment Points				320000	For training or hierarchical purposes
 		Ambulance Load Point	Point	320103	
 		Ambulance Relay Point	Point	320104	
 	Ammunition Supply Point		Point	320200	
-	Ammunition Transfer and Holding Point		Point	320310	
+	Ammunition Transfer and Holding Point		Point	320300	
 	Cannibalization Point		Point	320400	
 	Casualty Collection Point		Point	320500	
 	Civilian Collection Point		Point	320600	
