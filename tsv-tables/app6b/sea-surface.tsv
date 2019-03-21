@@ -60,7 +60,7 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.4.5.1 	S	*	S	*	ED----	DITCHED AIRCRAFT	
 1.X.4.5.2 	S	*	S	*	EP----	PERSON IN WATER	
 1.X.4.5.3 	S	*	S	*	EV----	DISTRESSED VESSEL	
-1.X.4.6 	S	*	S	*	Z-----	HAZARD	N/A	
+1.X.4.6 	S	*	S	*	Z-----	HAZARD	N/A
 1.X.4.6.1 	S	*	S	*	ZM----	SEA MINELIKE	
 1.X.4.6.2 	S	*	S	*	ZN----	NAVIGATIONAL	
 1.X.4.6.3 	S	*	S	*	ZI----	ICEBERG	
