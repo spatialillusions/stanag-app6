@@ -1,6 +1,6 @@
 hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
 1.X.3.2 	S	*	G	*	E-----	GROUND TRACK EQUIPMENT	
-1.X.3.2.1 	S	*	G	*	EW----	WEAPONS	N/A	
+1.X.3.2.1 	S	*	G	*	EW----	WEAPONS	N/A
 1.X.3.2.1.1 	S	*	G	*	EWM---	MISSILE LAUNCHERS	
 1.X.3.2.1.1.1 	S	*	G	*	EWMA--	AIR DEFENCE (AD) MISSILE LAUNCH	
 1.X.3.2.1.1.1.1 	S	*	G	*	EWMAS-	SHORT RANGE AD MISSILE LAUNCHERS	
@@ -100,7 +100,7 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.3.2.3 	S	*	G	*	ES----	SENSOR	
 1.X.3.2.3.1 	S	*	G	*	ESR---	RADAR	
 1.X.3.2.3.2 	S	*	G	*	ESE---	EMPLACED SENSOR	
-1.X.3.2.4 	S	*	G	*	EX----	SPECIAL EQUIPMENT	N/A	
+1.X.3.2.4 	S	*	G	*	EX----	SPECIAL EQUIPMENT	N/A
 1.X.3.2.4.1 	S	*	G	*	EXL---	LASER	
 1.X.3.2.4.2 	S	*	G	*	EXN---	CBRN EQUIPMENT	
 1.X.3.2.4.3 	S	*	G	*	EXF---	FLAME THROWER	
