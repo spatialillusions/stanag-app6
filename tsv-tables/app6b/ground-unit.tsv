@@ -85,7 +85,7 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.3.1.1.5.7 	S	*	G	*	UCIN--	INFANTRY NAVAL	
 1.X.3.1.1.5.8 	S	*	G	*	UCII--	INFANTRY FIGHTING VEHICLE	
 1.X.3.1.1.5.9 	S	*	G	*	UCIC--	INFANTRY ARCTIC	
-1.X.3.1.1.5.10 	S	*	G	*	UCIC--	INFANTRY SNIPER	Error in standard	
+1.X.3.1.1.5.10 	S	*	G	*	UCIC--	INFANTRY SNIPER	Error in standard
 1.X.3.1.1.6 	S	*	G	*	UCE---	ENGINEER	
 1.X.3.1.1.6.1 	S	*	G	*	UCEC--	ENGINEER COMBAT	
 1.X.3.1.1.6.1.1 	S	*	G	*	UCECS-	ENGINEER COMBAT AIR ASSAULT	
@@ -98,10 +98,10 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.3.1.1.6.1.8 	S	*	G	*	UCECW-	ENGINEER COMBAT MOTORIZED	
 1.X.3.1.1.6.1.9 	S	*	G	*	UCECO-	ENGINEER COMBAT MOUNTAIN	
 1.X.3.1.1.6.1.10 	S	*	G	*	UCECR-	ENGINEER COMBAT RECON	
-1.X.3.1.1.6.1.11 	S	*	G	*	UCEC--	ENGINEER COMBAT BRIDGING	Error in standard	
-1.X.3.1.1.6.1.12 	S	*	G	*	UCEC--	ENGINEER COMBAT MINE CLEARING	Error in standard	
-1.X.3.1.1.6.1.13 	S	*	G	*	UCEC--	ENGINEER COMBAT MINE LAYING	Error in standard	
-1.X.3.1.1.6.1.14 	S	*	G	*	UCEC--	ENGINEER COMBAT DIVING	Error in standard	
+1.X.3.1.1.6.1.11 	S	*	G	*	UCEC--	ENGINEER COMBAT BRIDGING	Error in standard
+1.X.3.1.1.6.1.12 	S	*	G	*	UCEC--	ENGINEER COMBAT MINE CLEARING	Error in standard
+1.X.3.1.1.6.1.13 	S	*	G	*	UCEC--	ENGINEER COMBAT MINE LAYING	Error in standard
+1.X.3.1.1.6.1.14 	S	*	G	*	UCEC--	ENGINEER COMBAT DIVING	Error in standard
 1.X.3.1.1.6.2 	S	*	G	*	UCEN--	ENGINEER CONSTRUCTION	
 1.X.3.1.1.6.2.1 	S	*	G	*	UCENN-	ENGINEER NAVAL CONSTRUCTION	
 1.X.3.1.1.7 	S	*	G	*	UCF---	FIELD ARTILLERY	
@@ -151,8 +151,8 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.3.1.1.7.6.2 	S	*	G	*	UCFOA-	AIRBORNE METEOROLOGICAL	
 1.X.3.1.1.7.6.3 	S	*	G	*	UCFOL-	LIGHT METEOROLOGICAL	
 1.X.3.1.1.7.6.4 	S	*	G	*	UCFOO-	MOUNTAIN METEOROLOGICAL	
-1.X.3.1.1.7.7 	S	*	G	*	UCF---	FIRE DIRECTION CENTRE	Error in standard	
-1.X.3.1.1.7.8 	S	*	G	*	UCF---	OBERSERVER	Error in standard	
+1.X.3.1.1.7.7 	S	*	G	*	UCF---	FIRE DIRECTION CENTRE	Error in standard
+1.X.3.1.1.7.8 	S	*	G	*	UCF---	OBERSERVER	Error in standard
 1.X.3.1.1.8 	S	*	G	*	UCR---	RECONNAISSANCE	
 1.X.3.1.1.8.1 	S	*	G	*	UCRH--	RECONNAISSANCE HORSE	
 1.X.3.1.1.8.2 	S	*	G	*	UCRV--	RECONNAISSANCE CAVALRY	
