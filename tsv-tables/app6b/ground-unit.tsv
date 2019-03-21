@@ -69,7 +69,7 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.3.1.1.4.5 	S	*	G	*	UCVV--	VERTICAL/SHORT TAKEOFF AND LANDING (V/STOL)	
 1.X.3.1.1.4.6 	S	*	G	*	UCVU--	UNMANNED AERIAL VEHICLE	
 1.X.3.1.1.4.6.1 	S	*	G	*	UCVUF-	UNMANNED AERIAL VEHICLE FIXED WING	
-1.X.3.1.1.4.6.1.1 	S	*	G	*	UCVU--	AVIATION UAV CONTROL	Error in standard	
+1.X.3.1.1.4.6.1.1 	S	*	G	*	UCVU--	AVIATION UAV CONTROL	Error in standard
 1.X.3.1.1.4.6.1.2 	S	*	G	*	UCVU--	AVIATION UAV LAUNCHER	Error in standard	
 1.X.3.1.1.4.6.1.3 	S	*	G	*	UCVU--	AVIATION UAV RECOVERY	Error in standard	
 1.X.3.1.1.4.6.2 	S	*	G	*	UCVUR-	UNMANNED AERIAL VEHICLE ROTARY WING	
