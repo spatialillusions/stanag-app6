@@ -1,6 +1,6 @@
 hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remarks
 1.X.6 	S	*	F	*	------	SPECIAL OPERATIONS FORCE (SOF) UNIT	
-1.X.6.1 	S	*	F	*	A-----	SOF UNIT AVIATION	N/A	
+1.X.6.1 	S	*	F	*	A-----	SOF UNIT AVIATION	N/A
 1.X.6.1.1 	S	*	F	*	AF----	SOF UNIT FIXED WING	
 1.X.6.1.1.1 	S	*	F	*	AFA---	SOF UNIT ATTACK	
 1.X.6.1.1.2 	S	*	F	*	AFK---	SOF UNIT REFUEL	
