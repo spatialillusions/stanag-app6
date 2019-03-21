@@ -38,7 +38,7 @@ hierarchy	codingscheme	affiliation	battledimension	status	functionid	name	remark
 1.X.4.2.6 	S	*	S	*	NTS---	SUBMARINE TENDER	
 1.X.4.2.7 	S	*	S	*	NH----	HOVERCRAFT	
 1.X.4.2.8 	S	*	S	*	NS----	SERVICE & SUPPORT HARBOUR	
-1.X.4.3 	S	*	S	*	X-----	NON MILITARY	N/A	
+1.X.4.3 	S	*	S	*	X-----	NON MILITARY	N/A
 1.X.4.3.1 	S	*	S	*	XM----	MERCHANT	
 1.X.4.3.1.1 	S	*	S	*	XMC---	CARGO	
 1.X.4.3.1.2 	S	*	S	*	XME---	ROLL ON-ROLL OFF	
