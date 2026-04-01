@@ -1,0 +1,16 @@
+Second Modifier	Code	Remarks
+Short Range	01	1000km or less.
+Medium Range	02	1000km to 3500km.
+Intermediate Range	03	1000km to 3500km.
+Long Range	04	3500km to 5500km.
+Intercontinental	05	5500km or greater.
+Arrow	06	Used with Interceptor modifier 1 only.
+Ground-Based Interceptor (GBI)	07	Used with Interceptor modifier 1 only.
+Patriot	08	Used with Interceptor modifier 1 only.
+Standard Missile Terminal Phase (SM-T)	09	Used with Interceptor modifier 1 only.
+Standard Missile – 3 (SM-3)	10	Used with Interceptor modifier 1 only.
+Terminal High Altitude Area Defense (THAAD)	11	Used with Interceptor modifier 1 only.
+Space	12
+Close Range (CRBM)	13
+Debris	14
+Unknown	15

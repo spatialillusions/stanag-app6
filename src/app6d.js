@@ -12,6 +12,10 @@ import mil_std_app6d_space_mainIcon from "./../tsv-tables/app6d/Space.tsv";
 import mil_std_app6d_space_m1 from "./../tsv-tables/app6d/Space sector 1.tsv";
 import mil_std_app6d_space_m2 from "./../tsv-tables/app6d/Space sector 2.tsv";
 
+import mil_std_app6d_space_missile_mainIcon from "./../tsv-tables/app6d/Space missile.tsv";
+import mil_std_app6d_space_missile_m1 from "./../tsv-tables/app6d/Space missile sector 1.tsv";
+import mil_std_app6d_space_missile_m2 from "./../tsv-tables/app6d/Space missile sector 2.tsv";
+
 import mil_std_app6d_land_unit_mainIcon from "./../tsv-tables/app6d/Land unit.tsv";
 import mil_std_app6d_land_unit_m1 from "./../tsv-tables/app6d/Land unit sector 1.tsv";
 import mil_std_app6d_land_unit_m2 from "./../tsv-tables/app6d/Land unit sector 2.tsv";
@@ -73,6 +77,13 @@ export default {
     mainIcon: tsv2json(mil_std_app6d_space_mainIcon),
     modifier1: tsv2json(mil_std_app6d_space_m1),
     modifier2: tsv2json(mil_std_app6d_space_m2)
+  },
+  "06": {
+    symbolset: "06",
+    name: "Space missile",
+    mainIcon: tsv2json(mil_std_app6d_space_missile_mainIcon),
+    modifier1: tsv2json(mil_std_app6d_space_missile_m1),
+    modifier2: tsv2json(mil_std_app6d_space_missile_m2)
   },
   "10": {
     symbolset: "10",
